@@ -21,6 +21,7 @@ Backend API Python untuk deteksi wajah, emosi, umur, dan gender menggunakan Flas
 - **TensorFlow** - Machine learning framework
 - **Pillow** - Image processing
 - **Flask-CORS** - Cross-origin resource sharing
+- **React Native** - Cross-origin resource sharing
 
 ## Instalasi
 
